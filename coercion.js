@@ -1,5 +1,5 @@
 
- //Use of typeof to know th name of datatype coercion
+ //Use of typeof to know the name of datatype coercion
 let num =14;
 let str = "6";
 //convert string to number
@@ -17,6 +17,6 @@ console.log(Conv,typeof Conv)
 console.log(Boolean(NaN));
 console.log(Boolean(2));
 
-//convert string to number using parseInt
+//convert string to number using parseInt.It will the covert the first number in the string
 let x= parseInt("123 Dave");
 console.log(x);
