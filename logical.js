@@ -7,4 +7,6 @@ console.log(x<y && x<z);
 //In OR operation if one of the condition is true you get true
 console.log(x<y || x>z);
 
- 
+//Using NOT operator ! operator
+//In NOT operator if one of the condition is false you get true
+console.log(!(x>y));
