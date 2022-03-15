@@ -16,3 +16,7 @@ console.log(Conv,typeof Conv)
 //number 0  ,undefined or NaN are  always false in boolean
 console.log(Boolean(NaN));
 console.log(Boolean(2));
+
+//convert string to number using parseInt
+let x= parseInt("123 Dave");
+console.log(x);
