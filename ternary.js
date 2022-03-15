@@ -1,4 +1,5 @@
-//Find number is even or odd
+
+//Find number is even or odd 
  let num = prompt("Enter a number");
  let result;
  if(num%2 ===0){
